@@ -1,0 +1,83 @@
+COLLEGE NAME: A1 GLOBAL INSTITUTE OF ENGINEERING AND TECHNOLOGY
+  
+
+BRANCHES / BRANCHE NAMES : COMPUTER SCIENCE AND ENGINEERING (CSE), 
+          CSE-ARTIFICAL INTELLIGENCE & MACHINE LEARNING (AI&ML), 
+          CSE-ARTIFICAL INTELLIGENCE DATA SCIENCE (AI&DS),
+          ELECTRONICS AND COMMUNICATION ENGINEERING (ECE), 
+          MECHANICAL ENGINEERING 
+
+
+COURSE FEES / FEES : (IN RUPPES)
+CSE-80,000
+AI&ML-85,000
+AI&DS-85,000s
+ECE-70,000
+MECHANICAL engineering -75,000
+
+
+HOSTEL/HOSTELS : BOTH BOYS AND GIRLS HOSTEL AVAILBLE
+
+
+CULTURAL ACTIVITIES : FRESHERS for all the students in the  college, 
+                      GLOBAL MAHOSTAV is done in three individual days among all the departments participate in sports and many activities like dance,singing etc.
+
+
+PLACEMENTS : Mainly TCS, WIPRO and INFOSYS are the companies visiting our campus for a while, many students are placed in these companies.
+
+
+SYALLABUS :
+
+COMPUTER SCIENCE AND ENGINEERING(CSE)
+1ST SEM: Maths(M1), Physics, C, English, Engineering Drawing
+2ND SEM: Maths(M2), Chemistry, BCME, BEEE, Data Structure
+3RD SEM: Discrete Mathematics & Graph Theory, Universal Human Values, DLCO, Advanced Data Structures &Algorithm Analysis, Object Oriented Programming Through Java
+4th SEM: Managerial Economics & Financial Analysis, Probability & Statistics, Database Management Systems Operating Systems, Software Engineering
+5TH SEM: Computer networks, Formal language and automata theory, Data warehousing and data mining, Oe1, Pe1
+6th SEM: Cloud computing, Compiler design, Cryptography and network security, Oe2, Pe2
+7TH SEM: Deep learning Human resource & project Management, PE4, PE5
+8TH SEM: Internship/project work
+
+
+CSE-ARTIFICAL INTELLIGENCE AND MACHINE LEARNING(AI&ML)
+1ST SEM: Maths(M1), Physics, C, English, Engineering Drawing
+2ND SEM: Maths(M2), Chemistry, BCME, BEEE, Data Structure
+3RD SEM: Discrete Mathematics & Graph Theory, Universal Human Values, DLCO, Advanced Data Structures &Algorithm Analysis, Object Oriented Programming Through Java
+4TH SEM: Optimization Techniques, Probability & Statistics, Machine Learning, Database Management Systems, Digital Logic & computer
+5th SEM: Deep learning, Computer networks, Natural language processing, Oe1, Pe1
+6TH SEM: Reinforcement learning, Big data analysis, Data visualization, Oe2, Pe2
+7th SEM: Generative AI Human resource & project Management, PE4, Pe5
+8TH SEM: Internship/project work
+
+
+CSE-ARTIFICAL INTELLIGENCE DATA SCIENCE (AI&DS)
+1ST SEM: Maths(M1), Physics, C, English, Engineering Drawing
+2ND SEM: Maths(M2), Chemistry, BCME, BEEE, Data Structure
+3RD SEM: Discrete Mathematics & Graph Theory, Universal Human Values, DLCO, Advanced Data Structures &Algorithm Analysis, Object Oriented Programming Through Java
+4TH SEM: Managerial Economics & Financial Analysis, Statistical methods for Data science, Artificial intelligence, Introduction to Data science, Digital logical and computer organization
+5th SEM: Data warehousing & data mining, Principles of machine learning, Data visualization, Oe1, Pe1
+6TH SEM: Big data analysis, Deep learning, Natural language processing, Oe2, Pe2
+7TH SEM: Generative AI Human resource & project Management, PE4, PE5
+8TH SEM: Internship/project work
+
+
+ELECTRONICS AND COMMUNICATION ENGINEERING (ECE)
+1ST SEM: Maths(M1), Physics, C, English, Engineering Drawing
+2ND SEM: Maths(M2), Chemistry, BCME, BEEE, NA
+3RD SEM: Signals and systems, Probability theory and stochastic process, Electronic device and circuits, Switching theory and logical design
+4TH SEM: Managerial Economics and Financial Analysis, Linear Control Systems, Electromagnetic Waves and Transmissions, Lines Electronic Circuit, Analysis Analog Communications
+5th SEM: Analog ICs and applications, Electromagnetic Waves and Transmission lines, Digital communication, Oe1, Pe1
+6th SEM: Microprocessor and Microcontrollers, VLSI design, Digital signal processing, Oe2, Pe2
+7TH SEM: Cellular & mobile communication’s Management science, Pe4, Pe5
+8TH SEM: Internship/project work
+
+
+MECHANICAL ENGINEERING 
+1ST SEM: Maths(M1), Physics, C, English, Engineering Drawing
+2ND SEM: Maths(M2), Chemistry, BCME, BEEE, Engineering Mechanics
+3RD SEM: Numerical methods and transform techniques, Universal Human Values, Thermodynamics, Mechanics of solid’s, Material Science and Metallurgy
+4TH SEM: Industrial Management, Complex Variables, Probability and Statistic’s, Manufacturing process, Fluid Mechanic’s &Hydraulic machine’s Theory of machine’s
+5TH SEM: Thermal engineering-2, Design of machine member s-1 Machining, machine tools & Metrology, Oe1, Pe1
+6TH SEM: Basic thermodynamics, Manufacturing processes, Materials science and engineering, Oe2, Pe2
+7TH SEM: CAD/CAM Operation research, Pe4, Pe5
+8TH SEM: Internship/project work
